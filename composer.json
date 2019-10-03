@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Monetate_Track",
+    "name": "openmage-module-fostering\/monetate_track",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Track data and export product feed to Monetate.",
     "authors": [
